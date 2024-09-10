@@ -3,7 +3,7 @@
 My Name is Rose!
 I just graduated a coding bootcamp with Tech Elevator, focused on Java Web Application.
 
-My pet website PAW SWIPE is a workin in progress, trying to implement new things when I can. 
+My pet website PAW SWIPE is a work in in progress! 
 
 
 - 💬 Ask me about my favorite albums
