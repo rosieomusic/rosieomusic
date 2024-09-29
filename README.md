@@ -4,6 +4,7 @@ My Name is Rose!
 I just graduated a coding bootcamp with Tech Elevator, focused on Java Web Application.
 
 My pet website PAW SWIPE is a work in in progress! 
+the server is currently down due to free trial hosting site period being up!
 if you want to use the admin features in my figma mockup press shift A on the login view
 if you want to use them in the actual project use user: admin password: password
 
