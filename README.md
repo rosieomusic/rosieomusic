@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 My Name is Rose!
-I just graduated a coding bootcamp with Tech Elevator, focused on Java Web Application.
+Full-Stack software developer and Musician
+
+These are my projects and experiments
+my portfolio website is http://roseomalley.netlify.app/
 
 My pet website PAW SWIPE is a work in in progress! 
-the server is currently down due to free trial hosting site period being up!
+the server is currently down due to free trial hosting site period being up! Will re host soon.
 
 
 - 💬 Ask me about my favorite albums
